@@ -1,0 +1,19 @@
+title: Default Page
+preset: page
+fields:
+  headline:
+    label: Headline
+    type: text
+    width: 1/2
+  subheadline:
+    label: Sub-Headline
+    type: text
+    width: 1/2
+  split_left:
+    label: Split Left
+    type: textarea
+    size: large
+  split_right:
+    label: Split Right
+    type: textarea
+    size: large

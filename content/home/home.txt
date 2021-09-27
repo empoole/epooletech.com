@@ -1,0 +1,57 @@
+Title: Home
+
+----
+
+Headline: Eric Poole
+
+----
+
+Subheadline: { Full Stack Engineer }
+
+----
+
+Split-left:
+
+<h2 class="text-blue">&lt;bio&gt;</h2>
+<p>I'm a Full Stack Engineer with 6 years experience. I love exploring new technologies and programming languages. I like modern JavaScript, TypeScript and React.</p>
+
+<p>When I'm not coding I like music, gaming and science fiction.</p>
+
+<p>Currently Learning: Python, Java, three.js</p>
+<h2 class="text-blue">&lt;/bio&gt;</h2>
+
+----
+
+Split-right:
+
+<h2 class="text-blue">&lt;tech_stack&gt;</h2>
+<ul>
+<li>JavaScript
+<ul>
+<li>React</li>
+<li>Vue</li>
+<li>Node</li>
+<li>TypeScript</li>
+<li>jQuery</li>
+</ul>
+</li>
+<li>PHP
+<ul>
+<li>Laravel</li>
+<li>CakePHP</li>
+<li>WordPress</li>
+<li>Kirby</li>
+</ul>
+</li>
+<li>CSS
+<ul>
+<li>Sass</li>
+<li>Bootstrap</li>
+</ul>
+</li>
+</ul>
+<h2 class="text-blue">&lt;/tech_stack&gt;</h2>
+
+----
+
+Text: 

@@ -1,0 +1,9 @@
+Title: Eric Poole
+
+----
+
+Headline: Eric Poole
+
+----
+
+Subheadline: { Full Stack Engineer }
