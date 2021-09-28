@@ -10,7 +10,7 @@
         flex-wrap: wrap;
     }
     li {
-        max-width: 15rem;
+        width: 20rem;
         border: 1px solid;
         padding: 1rem 2rem;
         margin: 1rem;
@@ -24,4 +24,16 @@
             overflow: visible;
         }
     }   
+}
+
+@media only screen and (max-width: 1648px) {
+    #git-repos li {
+        width: 15rem;
+    }
+}
+
+@media only screen and (max-width: 925px) {
+    #git-repos li {
+        width: 100%;
+    }
 }

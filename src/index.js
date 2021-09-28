@@ -3,12 +3,10 @@
 import './styles/main.scss'
 import "regenerator-runtime/runtime.js";
 import getGitRepos from './js/repos'
-import updateFooter from './js/footer'
 
 import * as THREE from 'three'
 
 getGitRepos()
-updateFooter()
 
 const scene = new THREE.Scene()
 

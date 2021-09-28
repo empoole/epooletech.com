@@ -15,6 +15,8 @@ Split-left:
 <h2 class="text-blue">&lt;bio&gt;</h2>
 <p>I'm a Full Stack Engineer with 6 years experience. I love exploring new technologies and programming languages. I like modern JavaScript, TypeScript and React.</p>
 
+<p>Presently employed at <a href="https://www.avvir.io" target="_blank">Avvir</a>.</p>
+
 <p>When I'm not coding I like music, gaming and science fiction.</p>
 
 <p>Currently Learning: Python, Java, three.js</p>

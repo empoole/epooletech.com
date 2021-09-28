@@ -12,3 +12,12 @@
 .split article {
     width: 43%;
 }
+
+@media only screen and (max-width: 925px) {
+    .split {
+        flex-direction: column;
+        article {
+            width: 100%;
+        }
+    }
+}
